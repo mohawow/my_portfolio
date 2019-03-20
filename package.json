@@ -1,0 +1,16 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "mohamed",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0",
+    "node-sass": "^4.9.2"
+  }
+}

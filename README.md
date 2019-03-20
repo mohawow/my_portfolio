@@ -1,9 +1,8 @@
-# [My Protfolio Website]
+## My Protfolio Website
 
-<p align="center">My protfolio website show some of the projects I built and technologies I used to build them </p>
+<p>My protfolio website show some of the projects I built and technologies I used to build them </p>
 
-
-## Heroku Live Website
+## Live Website
 - [Deployed Client](https://limitless-beach-69771.herokuapp.com)
 - [Github Repo](https://github.com/mohawow/shadow)
 
